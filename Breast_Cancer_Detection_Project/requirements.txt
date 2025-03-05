@@ -1,0 +1,11 @@
+Requirements for Breast Cancer Detection Classification
+
+Data manipulation and analysis pandas==1.5.3
+
+Machine learning libraries scikit-learn==1.2.0
+
+Visualization libraries matplotlib==3.6.2 seaborn==0.12.1
+
+Numerical computations numpy==1.23.5
+
+Jupyter Notebook jupyter==1.0.0
