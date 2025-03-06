@@ -1,2 +1,2 @@
-# Machine-Learning-Lab
-It will consists of various Machine Learning Algorithms.
+# Machine-Learning
+It will consists of various Machine Learning Algorithms and projects
