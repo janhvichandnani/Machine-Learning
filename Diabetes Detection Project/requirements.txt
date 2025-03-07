@@ -1,0 +1,9 @@
+Requirements for Diabetes Detection
+
+Data manipulation and analysis pandas==1.5.3
+
+Machine learning libraries scikit-learn==1.2.0
+
+Numerical computations numpy==1.23.5
+
+Jupyter Notebook jupyter==1.0.0
